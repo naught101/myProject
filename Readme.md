@@ -15,6 +15,7 @@ How to make a pull request
 7. On github.com, make a pull request from your fork.
 8. I will merge the pull request into the original repository.
 9. Be cool XDXDXDXD
+10. Something something
 
 Participants
 ============
