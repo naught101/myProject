@@ -14,6 +14,8 @@ How to make a pull request
 6. `git push origin <branchname>`
 7. Make a pull request.
 8. I will merge the pull request into the original repository.
+9. Something something
+
 
 Participants
 ============
