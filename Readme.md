@@ -11,8 +11,8 @@ How to make a pull request
 3. Press "fork"
 4. Clone your new repository to you local machine
 5. Make changes, add them, commit them (to a new branch if you want)
-6. `git push origin <branchname>`
-7. Make a pull request.
+6. `git push` (use `git push origin <branchname>` if you used a branch')
+7. On github.com, make a pull request from your fork.
 8. I will merge the pull request into the original repository.
 
 Participants
