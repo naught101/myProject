@@ -1,4 +1,7 @@
 SharynYs!
+=======
+
+Hello!
 ========
 
 Welcome to the CCRC Software Carpentry workshop, 2015
@@ -19,9 +22,9 @@ How to make a pull request
 
 Participants
 ============
-
 - ned haughton
 - Dipayan Choudhury
+- Helen Millman
 
 
 Changes made by Wasin C.
