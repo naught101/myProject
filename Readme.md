@@ -18,5 +18,10 @@ How to make a pull request
 Participants
 ============
 
-- ned haughton
+- ned haughton 
+
+
+- Sarah :D
+ 
+
 
